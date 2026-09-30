@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
       - name: devnginx
-        image: ec2-3-34-51-72.ap-northeast-2.compute.amazonaws.com/unn-project/web04:latest
+        image: ec2-3-34-51-72.ap-northeast-2.compute.amazonaws.com/unn-project/web36:latest
         imagePullPolicy: Always
 
